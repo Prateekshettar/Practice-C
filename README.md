@@ -33,7 +33,8 @@ Write a program that will count from 1 to 100 and print only those values betwee
   
   **3). Practice 3**
   
-  Write a program to record attendance of the class.There are 15 students.Student number 5, 8 ,12 are absent.Attendance shall be recorded in only one variable.It should print" Class is full", if every one is present, otherwise "There are few absentees".
+  Write a program to record attendance of the class.There are 15 students.Student number 5, 8 ,12 are absent.Attendance shall be recorded in only one variable.It should print
+  **" Class is full"**, if every one is present, otherwise **"There are few absentees"**.
   
   
 
