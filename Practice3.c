@@ -18,7 +18,7 @@
      }
      else
      {
-         printf("\nThere are few absentees \n",count);
+         printf("\nThere are few absentees \n");
      }
 
  }
